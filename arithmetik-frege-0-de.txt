@@ -1,0 +1,449 @@
+
+
+    Einleitung.
+
+
+    Auf die Frage, was die Zahl Eins sei, oder was das
+    Zeichen 1 bedeute, wird man meistens die Antwort erhalten:
+    nun, ein Ding. Und wenn man dann darauf aufmerksam
+    macht, dass der Satz
+
+    »die Zahl Eins ist ein Ding«
+
+keine Definition ist, weil auf der einen Seite der bestimmte Artikel,
+auf der andern der unbestimmte steht, dass er nur besagt, die Zahl
+Eins gehöre zu den Dingen, aber nicht, welches Ding sie sei, so wird
+man vielleicht aufgefordert, sich irgendein Ding zu wählen, das man
+Eins nennen wolle. Wenn aber Jeder das Recht hätte, unter diesem Namen
+zu verstehen, was er will, so würde derselbe Satz von der Eins für
+Verschiedene Verschiedenes bedeuten; es gäbe keinen gemeinsamen Inhalt
+solcher Sätze. Einige lehnen vielleicht die Frage mit dem Hinweise
+darauf ab, dass auch die Bedeutung des Buchstaben a in der Arithmetik
+nicht angegeben werden könne; und wenn man sage: a bedeutet eine Zahl,
+so könne hierin derselbe Fehler gefunden werden wie in der Definition:
+Eins ist ein Ding. Nun ist die Ablehnung der Frage in Bezug auf a
+ganz gerechtfertigt: es bedeutet keine bestimmte, angebbare Zahl,
+sondern dient dazu, die Allgemeinheit von Sätzen auszudrücken. Wenn
+man für a in a + a - a = a eine beliebige aber überall dieselbe Zahl
+setzt, so erhält man immer eine wahre Gleichung. In diesem Sinne wird
+der Buchstabe a gebraucht. Aber bei der Eins liegt die Sache doch
+wesentlich anders. Können wir in der Gleichung 1 + 1 = 2 für 1 beidemal
+denselben Gegenstand, etwa den Mond setzen? Vielmehr scheint es, dass
+wir für die erste 1 etwas Anderes wie für die zweite setzen müssen.
+Woran liegt es, dass hier grade das geschehen muss, was in jenem Falle
+ein Fehler wäre? Die Arithmetik kommt mit dem Buchstaben a allein nicht
+aus, sondern muss noch andere b, c u. s. w. gebrauchen, um Beziehungen
+zwischen verschiedenen Zahlen allgemein auszudrücken. So sollte man
+denken, könnte auch das Zeichen 1 nicht genügen, wenn es in ähnlicher
+Weise dazu diente, den Sätzen eine Allgemeinheit zu verleihen. Aber
+erscheint nicht die Zahl Eins als bestimmter Gegenstand mit angebbaren
+Eigenschaften, z. B. mit sich selbst multiplicirt unverändert zu
+bleiben? In diesem Sinne kann man von a keine Eigenschaften angeben;
+denn was von a ausgesagt wird, ist eine gemeinsame Eigenschaft der
+Zahlen, während 1¹ = 1 weder vom Monde etwas aussagt, noch von der
+Sonne, noch von der Sahara, noch vom Pic von Teneriffa; denn was könnte
+der Sinn einer solchen Aussage sein?
+
+Auf solche Fragen werden wohl auch die meisten Mathematiker keine
+genügende Antwort bereit haben. Ist es nun nicht für die Wissenschaft
+beschämend, so im Unklaren über ihren nächstliegenden und scheinbar so
+einfachen Gegenstand zu sein? Um so weniger wird man sagen können, was
+Zahl sei. Wenn ein Begriff, der einer grossen Wissenschaft zu Grunde
+liegt, Schwierigkeiten darbietet, so ist es doch wohl eine unabweisbare
+Aufgabe, ihn genauer zu untersuchen und diese Schwierigkeiten zu
+überwinden, besonders da es schwer gelingen möchte, über die negativen,
+gebrochenen, complexen Zahlen zu voller Klarheit zu kommen, solange
+noch die Einsicht in die Grundlage des ganzen Baues der Arithmetik
+mangelhaft ist.
+
+Viele werden das freilich nicht der Mühe werth achten. Dieser Begriff
+ist ja, wie sie meinen, in den Elementarbüchern hinreichend behandelt
+und damit für das ganze Leben abgethan. Wer glaubt denn über eine so
+einfache Sache noch etwas lernen zu können! Für so frei von jeder
+Schwierigkeit hält man den Begriff der positiven ganzen Zahl, dass
+er für Kinder wissenschaftlich erschöpfend behandelt werden könne,
+und dass Jeder ohne weiteres Nachdenken und ohne Bekanntschaft mit
+dem, was Andere gedacht haben, genau von ihm Bescheid wisse. So
+fehlt denn vielfach jene erste Vorbedingung des Lernens: das Wissen
+das Nichtwissens. Die Folge ist, dass man sich noch immer mit einer
+rohen Auffassung begnügt, obwohl schon _Herbart_[1] eine richtigere
+gelehrt hat. Es ist betrübend und entmuthigend, dass in dieser Weise
+eine Erkenntniss immer wieder verloren zu gehen droht, die schon
+errungen war, dass so manche Arbeit vergeblich zu werden scheint,
+weil man im eingebildeten Reichthume nicht nöthig zu haben glaubt,
+sich ihre Früchte anzueignen. Auch diese Arbeit, sehe ich wohl, ist
+solcher Gefahr ausgesetzt. Jene Roheit der Auffassung tritt mir
+entgegen, wenn das Rechnen aggregatives, mechanisches Denken genannt
+wird[2]. Ich bezweifle, dass es ein solches Denken überhaupt giebt.
+Aggregatives Vorstellen könnte man schon eher gelten lassen; aber es
+ist für das Rechnen ohne Bedeutung. Das Denken ist im Wesentlichen
+überall dasselbe: es kommen nicht je nach dem Gegenstande verschiedene
+Arten von Denkgesetzen in Betracht. Die Unterschiede bestehen nur
+in der grösseren oder geringeren Rauheit und Unabhängigkeit von
+psychologischen Einflüssen und von äussern Hilfen des Denkens wie
+Sprache, Zahlzeichen und dgl., dann etwa noch in der Feinheit
+des Baues der Begriffe; aber grade in dieser Rücksicht möchte die
+Mathematik von keiner Wissenschaft, selbst der Philosophie nicht,
+übertroffen werden.
+
+Man wird aus dieser Schrift ersehen können, dass auch ein scheinbar
+eigenthümlich mathematischer Schluss wie der von n auf n + 1 auf den
+allgemeinen logischen Gesetzen beruht, dass es besondrer Gesetze des
+aggregativen Denkens nicht bedarf. Man kann freilich die Zahlzeichen
+mechanisch gebrauchen, wie man papageimässig sprechen kann; aber Denken
+möchte das doch kaum zu nennen sein. Es ist nur möglich, nachdem durch
+wirkliches Denken die mathematische Zeichensprache so ausgebildet ist,
+dass sie, wie man sagt, für einen denkt. Dies beweist nicht, dass die
+Zahlen in einer besonders mechanischen Weise, etwa wie Sandhaufen aus
+Quarzkörnern gebildet sind. Es liegt, denke ich, im Interesse der
+Mathematiker einer solchen Ansicht entgegenzutreten, welche einen
+hauptsächlichen Gegenstand ihrer Wissenschaft und damit diese selbst
+herabzusetzen geeignet ist. Aber auch bei Mathematikern findet man
+ganz ähnliche Aussprüche. Im Gegentheil wird man dem Zahlbegriffe
+einen feineren Bau zuerkennen müssen als den meisten Begriffen andrer
+Wissenschaften, obwohl er noch einer der einfachsten arithmetischen ist.
+
+Um nun jenen Wahn zu widerlegen, dass in Bezug auf die positiven
+ganzen Zahlen eigentlich gar keine Schwierigkeiten obwalten, sondern
+allgemeine Uebereinstimmung herrsche, schien es mir gut, einige
+Meinungen von Philosophen und Mathematikern über die hier in Betracht
+kommenden Fragen zu besprechen. Man wird sehn, wie wenig von Einklang
+zu finden ist, sodass geradezu entgegengesetzte Aussprüche vorkommen.
+Die Einen sagen z. B.: »die Einheiten sind einander gleich«, die
+Andern halten sie für verschieden, und beide haben Gründe für ihre
+Behauptung, die sich nicht kurzer Hand abweisen lassen. Hierdurch
+suche ich das Bedürfniss nach einer genaueren Untersuchung zu wecken.
+Zugleich will ich durch die vorausgeschickte Beleuchtung der von Andern
+ausgesprochenen Ansichten meiner eignen Auffassung den Boden ebnen,
+damit man sich vorweg überzeuge, dass jene andern Wege nicht zum Ziele
+führen, und dass meine Meinung nicht eine von vielen gleichberechtigten
+ist; und so hoffe ich die Frage wenigstens in der Hauptsache endgiltig
+zu entscheiden.
+
+Freilich sind meine Ausführungen hierdurch wohl philosophischer
+geworden, als vielen Mathematikern angemessen scheinen mag; aber
+eine gründliche Untersuchung des Zahlbegriffes wird immer etwas
+philosophisch ausfallen müssen. Diese Aufgabe ist der Mathematik und
+Philosophie gemeinsam.
+
+Wenn das Zusammenarbeiten dieser Wissenschaften trotz mancher Anläufe
+von beiden Seiten nicht ein so gedeihliches ist, wie es zu wünschen
+und wohl auch möglich wäre, so liegt das, wie mir scheint, an dem
+Ueberwiegen psychologischer Betrachtungsweisen in der Philosophie,
+die selbst in die Logik eindringen. Mit dieser Richtung hat die
+Mathematik gar keine Berührungspunkte, und daraus erklärt sich leicht
+die Abneigung vieler Mathematiker gegen philosophische Betrachtungen.
+Wenn z. B. _Stricker_[3] die Vorstellungen der Zahlen motorisch,
+von Muskelgefühlen abhängig nennt, so kann der Mathematiker seine
+Zahlen darin nicht wiedererkennen und weiss mit einem solchen Satze
+nichts anzufangen. Eine Arithmetik, die auf Muskelgefühle gegründet
+wäre, würde gewiss recht gefühlvoll, aber auch ebenso verschwommen
+ausfallen wie diese Grundlage. Nein, mit Gefühlen hat die Arithmetik
+gar nichts zu schaffen. Ebensowenig mit innern Bildern, die aus Spuren
+früherer Sinneseindrücke zusammengeflossen sind. Das Schwankende und
+Unbestimmte, welches alle diese Gestaltungen haben, steht im starken
+Gegensatze zu der Bestimmtheit und Festigkeit der mathematischen
+Begriffe und Gegenstände. Es mag ja von Nutzen sein, die Vorstellungen
+und deren Wechsel zu betrachten, die beim mathematischen Denken
+vorkommen; aber die Psychologie bilde sich nicht ein, zur Begründung
+der Arithmetik irgendetwas beitragen zu können. Dem Mathematiker als
+solchem sind diese innern Bilder, ihre Entstehung und Veränderung
+gleichgiltig. _Stricker_ sagt selbst, dass er sich beim Worte
+»Hundert« weiter nichts vorstellt als das Zeichen 100. Andere mögen
+sich den Buchstaben C oder sonst etwas vorstellen; geht daraus nicht
+hervor, dass diese innern Bilder in unserm Falle für das Wesen der
+Sache vollkommen gleichgiltig und zufällig sind, ebenso zufällig wie
+eine schwarze Tafel und ein Stück Kreide, dass sie überhaupt nicht
+Vorstellungen der Zahl Hundert zu heissen verdienen? Man sehe doch
+nicht das Wesen der Sache in solchen Vorstellungen! Man nehme nicht die
+Beschreibung, wie eine Vorstellung entsteht, für eine Definition und
+nicht die Angabe der seelischen und leiblichen Bedingungen dafür, dass
+uns ein Satz zum Bewusstsein kommt, für einen Beweis und verwechsele
+das Gedachtwerden eines Satzes nicht mit seiner Wahrheit! Man muss, wie
+es scheint, daran erinnern, dass ein Satz ebensowenig aufhört, wahr
+zu sein, wenn ich nicht mehr an ihn denke, wie die Sonne vernichtet
+wird, wenn ich die Augen schliesse. Sonst kommen wir noch dahin, dass
+man beim Beweise des pythagoräischen Lehrsatzes es nöthig findet, des
+Phosphorgehaltes unseres Gehirnes zu gedenken, und dass ein Astronom
+sich scheut, seine Schlüsse auf längst vergangene Zeiten zu erstrecken,
+damit man ihm nicht einwende: »du rechnest da 2 ∙ 2 = 4; aber die
+Zahlvorstellung hat ja eine Entwickelung, eine Geschichte! Man kann
+zweifeln, ob sie damals schon so weit war. Woher weisst du, dass in
+jener Vergangenheit dieser Satz schon bestand? Könnten die damals
+lebenden Wesen nicht den Satz 2 ∙ 2 = 5 gehabt haben, aus dem sich
+erst durch natürliche Züchtung im Kampf ums Dasein der Satz 2 ∙ 2 = 4
+entwickelt hat, der seinerseits vielleicht dazu bestimmt ist, auf
+demselben Wege sich zu 2 ∙ 2 = 3 fortzubilden?« Est modus in rebus,
+sunt certi denique fines! Die geschichtliche Betrachtungsweise, die
+das Werden der Dinge zu belauschen und aus dem Werden ihr Wesen zu
+erkennen sucht, hat gewiss eine grosse Berechtigung; aber sie hat auch
+ihre Grenzen. Wenn in dem beständigen Flusse aller Dinge nichts Festes,
+Ewiges beharrte, würde die Erkennbarkeit der Welt aufhören und Alles in
+Verwirrung stürzen. Man denkt sich, wie es scheint, dass die Begriffe
+in der einzelnen Seele so entstehen, wie die Blätter an den Bäumen und
+meint ihr Wesen dadurch erkennen zu können, dass man ihrer Entstehung
+nachforscht und sie aus der Natur der menschlichen Seele psychologisch
+zu erklären sucht. Aber diese Auffassung zieht Alles ins Subjective und
+hebt, bis ans Ende verfolgt, die Wahrheit auf. Was man Geschichte der
+Begriffe nennt, ist wohl entweder eine Geschichte unserer Erkenntniss
+der Begriffe oder der Bedeutungen der Wörter. Durch grosse geistige
+Arbeit, die Jahrhunderte hindurch andauern kann, gelingt es oft erst,
+einen Begriff in seiner Reinheit zu erkennen, ihn aus den fremden
+Umhüllungen herauszuschälen, die ihn dem geistigen Auge verbargen. Was
+soll man nun dazu sagen, wenn jemand, statt diese Arbeit, wo sie noch
+nicht vollendet scheint, fortzusetzen, sie für nichts achtet, in die
+Kinderstube geht oder sich in ältesten erdenkbaren Entwickelungsstufen
+der Menschheit zurückversetzt, um dort wie _J. St. Mill_ etwa eine
+Pfefferkuchen- oder Kieselsteinarithmetik zu entdecken! Es fehlt nur
+noch, dem Wohlgeschmacke des Kuchens eine besondere Bedeutung für den
+Zahlbegriff zuzuschreiben. Dies ist doch das grade Gegentheil eines
+vernünftigen Verfahrens und jedenfalls so unmathematisch wie möglich.
+Kein Wunder, dass die Mathematiker nichts davon wissen wollen! Statt
+eine besondere Reinheit der Begriffe da zu finden, wo man ihrer Quelle
+nahe zu sein glaubt, sieht man Alles verschwommen und ungesondert
+wie durch einen Nebel. Es ist so, als ob jemand, um Amerika kennen
+zu lernen, sich in die Lage des Columbus zurückversetzen wollte, als
+er den ersten zweifelhaften Schimmer seines vermeintlichen Indiens
+erblickte. Freilich beweist ein solcher Vergleich nichts; aber er
+verdeutlicht hoffentlich meine Meinung. Es kann ja sein, dass die
+Geschichte der Entdeckungen in vielen Fällen als Vorbereitung für
+weitere Forschungen nützlich ist; aber sie darf nicht an deren Stelle
+treten wollen.
+
+Dem Mathematiker gegenüber, wäre eine Bekämpfung solcher Auffassungen
+wohl kaum nöthig gewesen; aber da ich auch für die Philosophen die
+behandelten Streitfragen möglichst zum Austrage bringen wollte, war ich
+genöthigt, mich auf die Psychologie ein wenig einzulassen, wenn auch
+nur, um ihren Einbruch in die Mathematik zurückzuweisen.
+
+Uebrigens kommen auch in mathematischen Lehrbüchern psychologische
+Wendungen vor. Wenn man eine Verpflichtung fühlt, eine Definition zu
+geben, ohne es zu können, so will man wenigstens die Weise beschreiben,
+wie man zu dem betreffenden Gegenstande oder Begriffe kommt. Man
+erkennt diesen Fall leicht daran, dass im weitern Verlaufe nie mehr auf
+eine solche Erklärung zurückgegriffen wird. Für Lehrzwecke ist eine
+Hinführung auf die Sache auch ganz am Platze; nur sollte man sie von
+einer Definition immer deutlich unterscheiden. Dass auch Mathematiker
+Beweisgründe mit innern oder äussern Bedingungen der Führung eines
+Beweises verwechseln können, dafür liefert E. _Schröder_[4] ein
+ergötzliches Beispiel, indem er unter der Ueberschrift: »Einziges
+Axiom« Folgendes darbietet: »Das gedachte Princip könnte wohl das Axiom
+der Inhärenz der Zeichen genannt werden. Es giebt uns die Gewissheit,
+dass bei allen unsern Entwicklungen und Schlussfolgerungen die Zeichen
+in unserer Erinnerung -- noch fester aber am Papiere -- haften« u. s.
+w.
+
+So sehr sich nun die Mathematik jede Beihilfe vonseiten der Psychologie
+verbitten muss, so wenig kann sie ihren engen Zusammenhang mit der
+Logik verleugnen. Ja, ich stimme der Ansicht derjenigen bei, die eine
+scharfe Trennung für unthunlich halten. Soviel wird man zugeben,
+dass jede Untersuchung über die Bündigkeit einer Beweisführung oder
+die Berechtigung einer Definition logisch sein muss. Solche Fragen
+sind aber gar nicht von der Mathematik abzuweisen, da nur durch ihre
+Beantwortung die nöthige Sicherheit erreichbar ist.
+
+Auch in dieser Richtung gehe ich freilich etwas über das Uebliche
+hinaus. Die meisten Mathematiker sind bei Untersuchungen ähnlicher Art
+zufrieden, dem unmittelbaren Bedürfnisse genügt zu haben. Wenn sich
+eine Definition willig zu den Beweisen hergiebt, wenn man nirgends
+auf Widersprüche stösst, wenn sich Zusammenhänge zwischen scheinbar
+entlegnen Sachen erkennen lassen und wenn sich dadurch eine höhere
+Ordnung und Gesetzmässigkeit ergiebt, so pflegt man die Definition
+für genügend gesichert zu halten und fragt wenig nach ihrer logischen
+Rechtfertigung. Dies Verfahren hat jedenfalls das Gute, dass man
+nicht leicht das Ziel gänzlich verfehlt. Auch ich meine, dass die
+Definitionen sich durch ihre Fruchtbarkeit bewähren müssen, durch die
+Möglichkeit, Beweise mit ihnen zu führen. Aber es ist wohl zu beachten,
+dass die Strenge der Beweisführung ein Schein bleibt, mag auch die
+Schlusskette lückenlos sein, wenn die Definitionen nur nachträglich
+dadurch gerechtfertigt werden, dass man auf keinen Widerspruch
+gestossen ist. So hat man im Grunde immer nur eine erfahrungsmässige
+Sicherheit erlangt und muss eigentlich darauf gefasst sein, zuletzt
+doch noch einen Widerspruch anzutreffen, der das ganze Gebäude zum
+Einsturze bringt. Darum glaubte ich etwas weiter auf die allgemeinen
+logischen Grundlagen zurückgehn zu müssen, als vielleicht von den
+meisten Mathematikern für nöthig gehalten wird.
+
+Als Grundsätze habe ich in dieser Untersuchung folgende festgehalten:
+
+es ist das Psychologische von dem Logischen, das Subjective von dem
+Objectiven scharf zu trennen;
+
+nach der Bedeutung der Wörter muss im Satzzusammenhange, nicht in ihrer
+Vereinzelung gefragt werden;
+
+der Unterschied zwischen Begriff und Gegenstand ist im Auge zu behalten.
+
+Um das Erste zu befolgen, habe ich das Wort »Vorstellung« immer im
+psychologischen Sinne gebraucht und die Vorstellungen von den Begriffen
+und Gegenständen unterschieden. Wenn man den zweiten Grundsatz
+unbeachtet lässt, ist man fast genöthigt, als Bedeutung der Wörter
+innere Bilder oder Thaten der einzelnen Seele zu nehmen und damit
+auch gegen den ersten zu verstossen. Was den dritten Punkt betrifft,
+so ist es nur Schein, wenn man meint, einen Begriff zum Gegenstande
+machen zu können, ohne ihn zu verändern. Von hieraus ergiebt sich
+die Unhaltbarkeit einer verbreiteten formalen Theorie der Brüche,
+negativen Zahlen u. s. w. Wie ich die Verbesserung denke, kann ich in
+dieser Schrift nur andeuten. Es wird in allen diesen Fällen wie bei
+den positiven ganzen Zahlen darauf ankommen, den Sinn einer Gleichung
+festzustellen.
+
+Meine Ergebnisse werden, denke ich, wenigstens in der Hauptsache die
+Zustimmung der Mathematiker finden, welche sich die Mühe nehmen,
+meine Gründe in Betracht zu ziehn. Sie scheinen mir in der Luft zu
+liegen und einzeln sind sie vielleicht schon alle wenigstens annähernd
+ausgesprochen worden; aber in diesem Zusammenhange mit einander
+möchten sie doch neu sein. Ich habe mich manchmal gewundert, dass
+Darstellungen, die in Einem Punkte meiner Auffassung so nahe kommen, in
+andern so stark abweichen.
+
+Die Aufnahme bei den Philosophen wird je nach dem Standpunkte
+verschieden sein, am schlechtesten wohl bei jenen Empirikern, die als
+ursprüngliche Schlussweise nur die Induction anerkennen wollen und auch
+diese nicht einmal als Schlussweise, sondern als Gewöhnung. Vielleicht
+unterzieht Einer oder der Andere bei dieser Gelegenheit die Grundlagen
+seiner Erkenntnisstheorie einer erneueten Prüfung. Denen, welche etwa
+meine Definitionen für unnatürlich erklären möchten, gebe ich zu
+bedenken, dass die Frage hier nicht ist, ob natürlich, sondern ob den
+Kern der Sache treffend und logisch einwurfsfrei.
+
+Ich gebe mich der Hoffnung hin, dass bei vorurtheilsloser Prüfung auch
+die Philosophen einiges Brauchbare in dieser Schrift finden werden.
+
+
+
+
+§ 1. Nachdem die Mathematik sich eine Zeit lang von der euklidischen
+Strenge entfernt hatte, kehrt sie jetzt zu ihr zurück und strebt gar
+über sie hinaus. In der Arithmetik war schon infolge des indischen
+Ursprungs vieler ihrer Verfahrungsweisen und Begriffe eine laxere
+Denkweise hergebracht als in der von den Griechen vornehmlich
+ausgebildeten Geometrie. Sie wurde durch die Erfindung der höhern
+Analysis nur gefördert; denn einerseits stellten sich einer strengen
+Behandlung dieser Lehren erhebliche, fast unbesiegliche Schwierigkeiten
+entgegen, deren Ueberwindung andrerseits die darauf verwendeten
+Anstrengungen wenig lohnen zu wollen schien. Doch hat die weitere
+Entwickelung immer deutlicher gelehrt, dass in der Mathematik eine blos
+moralische Ueberzeugung, gestützt auf viele erfolgreiche Anwendungen,
+nicht genügt. Für Vieles wird jetzt ein Beweis gefordert, was früher
+für selbstverständlich galt. Die Grenzen der Giltigkeit sind erst
+dadurch in manchen Fällen festgestellt worden. Die Begriffe der
+Function, der Stetigkeit, der Grenze, des Unendlichen haben sich
+einer schärferen Bestimmung bedürftig gezeigt. Das Negative und die
+Irrationalzahl, welche längst in die Wissenschaft aufgenommen waren,
+haben sich einer genaueren Prüfung ihrer Berechtigung unterwerfen
+müssen.
+
+So zeigt sich überall das Bestreben, streng zu beweisen, die
+Giltigkeitsgrenzen genau zu ziehen und, um dies zu können, die Begriffe
+scharf zu fassen.
+
+
+§ 2. Dieser Weg muss im weitern Verfolge auf den Begriff der Anzahl
+und auf die von positiven ganzen Zahlen geltenden einfachsten Sätze
+führen, welche die Grundlage der ganzen Arithmetik bilden. Freilich
+sind Zahlformeln wie 5 + 7 = 12 und Gesetze wie das der Associativität
+bei der Addition durch die unzähligen Anwendungen, die tagtäglich von
+ihnen gemacht werden, so vielfach bestätigt, dass es fast lächerlich
+erscheinen kann, sie durch das Verlangen nach einem Beweise in Zweifel
+ziehen zu wollen. Aber es liegt im Wesen der Mathematik begründet,
+dass sie überall, wo ein Beweis möglich ist, ihn der Bewährung durch
+Induction vorzieht. Euklid beweist Vieles, was ihm jeder ohnehin
+zugestehen würde. Indem man sich selbst an der euklidischen Strenge
+nicht genügen liess, ist man auf die Untersuchungen geführt worden,
+welche sich an das Parallelenaxiom geknüpft haben.
+
+So ist jene auf grösste Strenge gerichtete Bewegung schon vielfach
+über das zunächst gefühlte Bedürfniss hinausgegangen und dieses ist an
+Ausdehnung und Stärke immer gewachsen.
+
+Der Beweis hat eben nicht nur den Zweck, die Wahrheit eines Satzes
+über jeden Zweifel zu erheben, sondern auch den, eine Einsicht in die
+Abhängigkeit der Wahrheiten von einander zu gewähren. Nachdem man
+sich von der Unerschütterlichkeit eines Felsblockes durch vergebliche
+Versuche, ihn zu bewegen, überzeugt hat, kann man ferner fragen, was
+ihn denn so sicher unterstütze. Je weiter man diese Untersuchungen
+fortsetzt, auf desto weniger Urwahrheiten führt man Alles zurück; und
+diese Vereinfachung ist an sich schon ein erstrebenswerthes Ziel.
+Vielleicht bestätigt sich auch die Hoffnung, dass man allgemeine Weisen
+der Begriffsbildung oder der Begründung gewinnen könne, die auch in
+verwickelteren Fällen verwendbar sind, indem man zum Bewusstsein
+bringt, was die Menschen in den einfachsten Fällen instinctiv gethan
+haben, und das Allgemeingiltige daraus abscheidet.
+
+
+§ 3. Mich haben auch philosophische Beweggründe zu solchen
+Untersuchungen bestimmt. Die Fragen nach der apriorischen oder
+aposteriorischen, der synthetischen oder analytischen Natur der
+arithmetischen Wahrheiten harren hier ihrer Beantwortung. Denn, wenn
+auch diese Begriffe selbst der Philosophie angehören, so glaube ich
+doch, dass die Entscheidung nicht ohne Beihilfe der Mathematik erfolgen
+kann. Freilich hangt dies von dem Sinne ab, den man jenen Fragen
+beilegt.
+
+Es ist kein seltener Fall, dass man zuerst den Inhalt eines Satzes
+gewinnt und dann auf einem andern beschwerlicheren Wege den strengen
+Beweis führt, durch den man oft auch die Bedingungen der Giltigkeit
+genauer kennen lernt. So hat man allgemein die Frage, wie wir zu dem
+Inhalte eines Urtheils kommen, von der zu trennen, woher wir die
+Berechtigung für unsere Behauptung nehmen.
+
+Jene Unterscheidungen von apriori und aposteriori, synthetisch und
+analytisch betreffen nun nach meiner[5] Auffassung nicht den Inhalt des
+Urtheils, sondern die Berechtigung zur Urtheilsfällung. Da, wo diese
+fehlt, fällt auch die Möglichkeit jener Eintheilung weg. Ein Irrthum
+apriori ist dann ein ebensolches Unding wie etwa ein blauer Begriff.
+Wenn man einen Satz in meinem Sinne aposteriori oder analytisch nennt,
+so urtheilt man nicht über die psychologischen, physiologischen und
+physikalischen Verhältnisse, die es möglich gemacht haben, den Inhalt
+des Satzes im Bewusstsein zu bilden, auch nicht darüber, wie ein
+Anderer vielleicht irrthümlicherweise dazu gekommen ist, ihn für wahr
+zu halten, sondern darüber, worauf im tiefsten Grunde die Berechtigung
+des Fürwahrhaltens beruht.
+
+Dadurch wird die Frage dem Gebiete der Psychologie entrückt und dem der
+Mathematik zugewiesen, wenn es sich um eine mathematische Wahrheit
+handelt. Es kommt nun darauf an, den Beweis zu finden und ihn bis auf
+die Urwahrheiten zurückzuverfolgen. Stösst man auf diesem Wege nur auf
+die allgemeinen logischen Gesetze und auf Definitionen, so hat man
+eine analytische Wahrheit, wobei vorausgesetzt wird, dass auch die
+Sätze mit in Betracht gezogen werden, auf denen etwa die Zulässigkeit
+einer Definition beruht. Wenn es aber nicht möglich ist, den Beweis zu
+führen, ohne Wahrheiten zu benutzen, welche nicht allgemein logischer
+Natur sind, sondern sich auf ein besonderes Wissensgebiet beziehen,
+so ist der Satz ein synthetischer. Damit eine Wahrheit aposteriori
+sei, wird verlangt, dass ihr Beweis nicht ohne Berufung auf Thatsachen
+auskomme; d. h. auf unbeweisbare Wahrheiten ohne Allgemeinheit,
+die Aussagen von bestimmten Gegenständen enthalten. Ist es dagegen
+möglich, den Beweis ganz aus allgemeinen Gesetzen zu führen, die selber
+eines Beweises weder fähig noch bedürftig sind, so ist die Wahrheit
+apriori.[6]
+
+
+§ 4. Von diesen philosophischen Fragen ausgehend kommen wir zu
+derselben Forderung, welche unabhängig davon auf dem Gebiete der
+Mathematik selbst erwachsen ist: die Grundsätze der Arithmetik, wenn
+irgend möglich, mit grösster Strenge zu beweisen; denn nur wenn aufs
+sorgfältigste jede Lücke in der Schlusskette vermieden wird, kann man
+mit Sicherheit sagen, auf welche Urwahrheiten sich der Beweis stützt;
+und nur wenn man diese kennt, wird man jene Fragen beantworten können.
+
+Wenn man nun dieser Forderung nachzukommen versucht, so gelangt man
+sehr bald zu Sätzen, deren Beweis solange unmöglich ist, als es nicht
+gelingt, darin vorkommende Begriffe in einfachere aufzulösen oder auf
+Allgemeineres zurückzuführen. Hier ist es nun vor allen die Anzahl,
+welche definirt oder als undefinirbar anerkannt werden muss. Das
+soll die Aufgabe dieses Buches sein.[7] Von ihrer Lösung wird die
+Entscheidung über die Natur der arithmetischen Gesetze abhangen.
+
+Bevor ich diese Fragen selbst angreife, will ich Einiges
+vorausschicken, was Fingerzeige für ihre Beantwortung geben kann. Wenn
+sich nämlich von andern Gesichtspunkten aus Gründe dafür ergeben,
+dass die Grundsätze der Arithmetik analytisch sind, so sprechen
+diese auch für deren Beweisbarkeit und für die Definirbarkeit des
+Begriffes der Anzahl. Die entgegengesetzte Wirkung werden die Gründe
+für die Aposteriorität dieser Wahrheiten haben. Deshalb mögen diese
+Streitpunkte zunächst einer vorläufigen Beleuchtung unterworfen werden.
+
+
+
