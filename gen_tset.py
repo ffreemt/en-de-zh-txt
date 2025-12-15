@@ -4,12 +4,19 @@
 import numpy as np
 from tqdm import tqdm
 from sklearn.metrics.pairwise import cosine_similarity
-from nptyping import Float, NDArray, Shape
+# from nptyping import Float, NDArray, Shape
+from numpy.typing import NDArray  # numpy2
+
+# def gen_tset(
+#     en_v_: np.ndarray, zh_v_: np.ndarray, bsize: int = 100
+# ): # -> NDArray[Shape["N, 1"], Float]:
 
 
 def gen_tset(
-    en_v_: np.ndarray, zh_v_: np.ndarray, bsize: int = 100
-) -> NDArray[Shape["int, 1"], Float]:
+    en_v_: NDArray[np.float64],
+    zh_v_: NDArray[np.float64],
+    bsize: int = 100,
+) -> NDArray[np.float64]:
     """
     Generate tset from en_v (lang1) and zh_v (lang2).
 
